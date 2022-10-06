@@ -1,0 +1,15 @@
+F:\NewProjectsC#\TargilmFromHiTech\TargilmFromHiTech\bin\Debug\net6.0\TargilmFromHiTech.exe
+F:\NewProjectsC#\TargilmFromHiTech\TargilmFromHiTech\bin\Debug\net6.0\TargilmFromHiTech.deps.json
+F:\NewProjectsC#\TargilmFromHiTech\TargilmFromHiTech\bin\Debug\net6.0\TargilmFromHiTech.runtimeconfig.json
+F:\NewProjectsC#\TargilmFromHiTech\TargilmFromHiTech\bin\Debug\net6.0\TargilmFromHiTech.dll
+F:\NewProjectsC#\TargilmFromHiTech\TargilmFromHiTech\bin\Debug\net6.0\TargilmFromHiTech.pdb
+F:\NewProjectsC#\TargilmFromHiTech\TargilmFromHiTech\obj\Debug\net6.0\TargilmFromHiTech.csproj.AssemblyReference.cache
+F:\NewProjectsC#\TargilmFromHiTech\TargilmFromHiTech\obj\Debug\net6.0\TargilmFromHiTech.GeneratedMSBuildEditorConfig.editorconfig
+F:\NewProjectsC#\TargilmFromHiTech\TargilmFromHiTech\obj\Debug\net6.0\TargilmFromHiTech.AssemblyInfoInputs.cache
+F:\NewProjectsC#\TargilmFromHiTech\TargilmFromHiTech\obj\Debug\net6.0\TargilmFromHiTech.AssemblyInfo.cs
+F:\NewProjectsC#\TargilmFromHiTech\TargilmFromHiTech\obj\Debug\net6.0\TargilmFromHiTech.csproj.CoreCompileInputs.cache
+F:\NewProjectsC#\TargilmFromHiTech\TargilmFromHiTech\obj\Debug\net6.0\TargilmFromHiTech.dll
+F:\NewProjectsC#\TargilmFromHiTech\TargilmFromHiTech\obj\Debug\net6.0\refint\TargilmFromHiTech.dll
+F:\NewProjectsC#\TargilmFromHiTech\TargilmFromHiTech\obj\Debug\net6.0\TargilmFromHiTech.pdb
+F:\NewProjectsC#\TargilmFromHiTech\TargilmFromHiTech\obj\Debug\net6.0\TargilmFromHiTech.genruntimeconfig.cache
+F:\NewProjectsC#\TargilmFromHiTech\TargilmFromHiTech\obj\Debug\net6.0\ref\TargilmFromHiTech.dll

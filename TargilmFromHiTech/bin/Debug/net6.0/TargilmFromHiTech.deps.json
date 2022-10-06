@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TargilmFromHiTech/1.0.0": {
+        "runtime": {
+          "TargilmFromHiTech.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TargilmFromHiTech/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
