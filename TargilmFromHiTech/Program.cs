@@ -369,7 +369,7 @@
                 tot++;
             }
             Console.WriteLine($"{num1}^{num2}={input}");
-        }
+        }        
        
     }
 }
